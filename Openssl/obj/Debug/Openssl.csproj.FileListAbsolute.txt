@@ -1,0 +1,12 @@
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab5\Openssl\bin\Debug\Openssl.exe.config
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab5\Openssl\bin\Debug\Openssl.exe
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab5\Openssl\bin\Debug\Openssl.pdb
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab5\Openssl\obj\Debug\Openssl.csproj.AssemblyReference.cache
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab5\Openssl\obj\Debug\Openssl.Form1.resources
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab5\Openssl\obj\Debug\Openssl.Properties.Resources.resources
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab5\Openssl\obj\Debug\Openssl.csproj.GenerateResource.cache
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab5\Openssl\obj\Debug\Openssl.csproj.CoreCompileInputs.cache
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab5\Openssl\obj\Debug\Openssl.exe
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab5\Openssl\obj\Debug\Openssl.pdb
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab5\Openssl\bin\Debug\ChilkatDotNet47.dll
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab5\Openssl\obj\Debug\Openssl.csproj.CopyComplete
